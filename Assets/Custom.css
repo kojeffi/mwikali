@@ -1,0 +1,72 @@
+body{
+    background-color: #e0b776;
+}
+.saru{
+    color: #49fef4;
+    font-size: 50px;
+    text-align: center;
+}
+.crystal{
+    background-color: #fe3b7f;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border: unset;
+    font-size: 20px;
+    color: #fef7fc;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+.maurean{
+    color: #e83afe;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+.register{
+    width: 40%;
+    margin: auto;
+
+}
+.catherine{
+    width: 100%;
+    height: 30px;
+    border-radius: 10px;
+    border: unset;
+    padding-left: 20px;
+    color: #fe9ec8;
+    font-weight: bold;
+}
+.btn_reg{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 40px;
+    background-color: #45fe8d;
+    border-radius: 10px;
+    border: unset;
+    color: #d1aafe;
+    font-size: 20px;
+    cursor: pointer;
+}
+.login{
+    width: 40%;
+    margin: auto;
+    text-decoration: underline;
+}
+.olie{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 40px;
+    background-color: #45fe8d;
+    border-radius: 10px;
+    border: unset;
+    color: #d1aafe;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+
+}
